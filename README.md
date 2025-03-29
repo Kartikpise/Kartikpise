@@ -1,46 +1,65 @@
-### Hi there, I'm Kartik Pise 👋  
+### Hi there, I am Anurag Kushwah! 👋
 
-🔹 Backend Developer | Cloud Enthusiast | System Architect  
+## 💫 About Me:
+Aspiring Full Stack Developer with a passion for learning and a drive to create innovative solutions from the ground up.
 
-💡 **About Me**  
-- Passionate about backend development, cloud computing, and scalable system design.  
-- Currently exploring advanced microservices architecture and distributed systems.  
-- Open to collaborations on backend-heavy projects using Spring Boot, Node.js, and cloud technologies.  
+🔗 **Portfolio**: [Visit Here](https://github.com/anurag0x/anurag0x.github.io)
 
-📫 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/kartik-pise-436898276/) | [GitHub](https://www.github.com/Kartikpise/)  
+---
 
----  
+## 🌐 Connect with Me:
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/anurag-kushwah-b8687124b)  
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/anuraag0x)  
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/anurag.kushwah.338211/about/)  
 
-### 💻 Tech Stack  
+---
 
-#### 🚀 Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+## 💻 Tech Stack:
 
-#### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-#### 🏗️ Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+---
 
-#### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+## 📊 GitHub Stats:
 
-#### ⚡ Software Design  
-- Microservices Architecture  
-- Concurrency & Parallelism  
-- Object-Oriented Programming (OOP)  
-- SOLID Principles  
-- Design Patterns  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag0x&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-⚡ **Fun fact**: I love optimizing system performance and solving complex scalability challenges! 🚀  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anurag0x&theme=dark&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0x&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anurag0x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repos:
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=anurag0x&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+
+---
+
+[![Profile Visits](https://visitcount.itsvg.in/api?id=anurag0x&icon=0&color=8)](https://visitcount.itsvg.in)
+
+---
+
+*Proudly created with GPRM ( https://gprm.itsvg.in )*
+
