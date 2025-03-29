@@ -1,6 +1,6 @@
 ### Hi there I am Kartik Pise 👋
 
-# 🌫 About Me:
+# 👨🏻‍💻 About Me:
 ### 💡  I'm a Software Developer who has spent 1 year in building backend applications
 
 ## 🌐 Socials:
